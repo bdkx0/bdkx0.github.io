@@ -1,0 +1,26 @@
+body {
+	width: 800px;
+	background: black;
+	color: white;
+	font-family: "times new roman", serif;
+	margin: auto;
+}
+
+h1 {
+	font-size: 100px;
+}
+
+a {
+	font-size:50px;
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+::selection {
+	color: black;
+	background: white;
+}

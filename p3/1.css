@@ -1,0 +1,62 @@
+body {
+	background: black; 
+	font-family: arial, sans-serif;
+	
+}
+
+#main {
+	width: 800px;
+	background: black;
+	color: white;
+	margin: auto;
+}
+
+#top {
+	font-size: 12px;
+	padding: 5px;
+	border-bottom-style: solid;
+	border-width: 1px;
+	font-weight: bold;
+}
+
+h1 {
+	margin-bottom: 0;
+	margin-top: 0;
+	font-size:24px;
+}
+
+#head {
+	font-size: 11px;
+}
+
+#news {
+	font-weight: bold;
+	font-size: 13px;
+	margin-top: 9px;
+}
+
+p {
+	font-size: 14px;
+	line-height: 1.5em;
+}
+
+a {
+	color: #ff835c;
+}
+
+a:hover {
+	color: #a84a2d;
+}
+
+::selection {
+	color: black;
+	background: white;
+}
+
+#a {
+	text-align: left;
+}
+
+#b {
+	text-align: right;
+}

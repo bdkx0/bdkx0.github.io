@@ -1,0 +1,24 @@
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#main {
+	width: 646.8px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#main p {
+	font: 14px "Courier New", "Courier", monospace;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+}
